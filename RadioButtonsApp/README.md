@@ -1,9 +1,5 @@
 # RadioButtonsApp
 
-- Implementa deselección de todos los radiobuttons de un grupo
-- Implementa deshabilitación de todo un grupo según un radiobutton seleccionado
-- Implementa una interface para definir un modelo
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
 ## Development server
